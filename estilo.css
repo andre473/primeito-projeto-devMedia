@@ -1,0 +1,53 @@
+
+div{
+    text-align: center;
+    border-top: 1px solid #d5d5d5;
+    padding: 50px;
+    background-color: #f5f5f5;
+  }
+
+ img{
+    width: 190px;
+ }
+ 
+ 
+  h1{
+    font-size: 32px;
+    font-family: tahoma;
+    color: #000000;
+  }
+
+  h2{
+    font-size: 24px;
+    font-family: tahoma;
+    color: #000000;
+  }
+
+  p{
+    font-size: 16px;
+    font-family: tahoma;
+    color: #000000;
+    padding: 30px 15px auto;
+    width: 930px;
+    padding-bottom: 30px;
+    margin:  auto;
+
+       
+  }
+
+  span{
+    font-weight: bold;
+  }
+
+  a{
+    font-size: 14px;
+    font-family: tahoma;
+    color: white;
+    background-color: #49B970;
+    border-radius: 25px;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-weight:bolder;
+    
+
+  }
